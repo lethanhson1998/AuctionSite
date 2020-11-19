@@ -1,0 +1,12 @@
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.AssemblyInfo.cs
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\bin\Debug\netcoreapp3.1\AuctionPage.WebData.deps.json
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\bin\Debug\netcoreapp3.1\AuctionPage.WebData.dll
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\bin\Debug\netcoreapp3.1\AuctionPage.WebData.runtimeconfig.json
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\bin\Debug\netcoreapp3.1\AuctionPage.WebData.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.genruntimeconfig.cache
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\bin\Debug\netcoreapp3.1\AuctionPage.WebData.pdb
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.dll
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.pdb
+C:\Users\thanh\source\repos\AuctionSite\AuctionPage.WebData\obj\Debug\netcoreapp3.1\AuctionPage.WebData.csproj.CoreCompileInputs.cache

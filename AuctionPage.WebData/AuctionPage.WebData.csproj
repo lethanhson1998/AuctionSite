@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200921100411_Initial.cs" />
+    <Compile Remove="Migrations\20200921100411_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200921101010_Initial.cs" />
+    <Compile Remove="Migrations\20200921101010_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200921101435_Initial.cs" />
+    <Compile Remove="Migrations\20200921101435_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200922015545_Initial.cs" />
+    <Compile Remove="Migrations\20200922015545_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200922020728_Initial.cs" />
+    <Compile Remove="Migrations\20200922020728_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200922021237_Initial.cs" />
+    <Compile Remove="Migrations\20200922021237_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
